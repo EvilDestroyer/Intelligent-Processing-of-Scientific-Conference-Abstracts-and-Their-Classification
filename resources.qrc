@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Resources/Icons/question_17515307.png</file>
+    <file>Resources/Icons/question-mark_14293045.png</file>
+    <file>Resources/Icons/folder_12075589.png</file>
+  </qresource>
+</RCC>
